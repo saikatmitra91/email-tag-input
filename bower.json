@@ -1,0 +1,19 @@
+{
+  "name": "email-tag-input",
+  "version": "0.0.0",
+  "homepage": "https://github.com/saikatmitra91/email-tag-input",
+  "authors": [
+    "saikatmitra91@gmail.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.4"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "email-tag-input",
+  "version": "1.0.0",
+  "description": "create an email list using the tag",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikatmitra91/email-tag-input.git"
+  },
+  "author": "saikatmitra91@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikatmitra91/email-tag-input/issues"
+  },
+  "homepage": "https://github.com/saikatmitra91/email-tag-input#readme",
+  "dependencies": {
+    "bower": "^1.7.9"
+  }
+}
