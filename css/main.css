@@ -1,1 +1,41 @@
+body {
+    font-family: sans-serif;
+}
 
+.email-id-wrapper {
+    border: 1px solid #bababa;
+    padding: 5px;
+    width: 500px;
+    display: inline-block;
+}
+
+.email-input,
+.email-list .emails {
+    height: 25px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.email-list .emails {
+    line-height: 25px;
+    background-color: #efefef;
+    padding: 2px 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.email-list .emails .remove {
+    display: inline-block;
+    margin-left: 10px;
+    background-color: #64B2F5;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 0 4px;
+    color: #fff;
+}
+
+.email-input {
+    width: 100%;
+    outline: none;
+    line-height: 25px;
+}
